@@ -1,7 +1,7 @@
-**🍀 iOS-Dev & Information Security**
-#### Kim Min Hee🙃
+#### 🐯 Kim Min Hee 
+**🏫 SEOUL WOMEN'S UNIVERSITY**
 
-<br>
+**💻 iOS-Dev & Information Security**
 
 ### Use Languages and Tools:
 [<code>
